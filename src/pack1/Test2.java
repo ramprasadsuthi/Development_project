@@ -9,6 +9,7 @@ public class Test2 {
 		a = (int)b;
 		
 		System.out.println("a is : " + a);
+		// This is sample comment added
 
 	}
 
